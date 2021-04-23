@@ -8,6 +8,6 @@ Prepare for Liftoff
 </html>
 <htlm>
 <body>
-<p>![Rocket Launch](giphy.gif?raw=true)</p>
+<p>![Rocket Launch](https://github.com/kwhite20/kwhite20.github.io/blob/main/giphy.gif?raw=true)</p>
 </body>
 <htlm>
