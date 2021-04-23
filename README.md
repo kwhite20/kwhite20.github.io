@@ -8,6 +8,7 @@ Prepare for Liftoff
 </html>
 <htlm>
 <body>
-<p>![Rocket Gif](http://gph.is/2jAqRVT)</p>
+<p>![Rocket Launch](https://user-images.githubusercontent.com/83042681/115911570-dba14a00-a433-11eb-8b1d-01eb4c1ed0f9.png)</p>
 </body>
 <htlm>
+
