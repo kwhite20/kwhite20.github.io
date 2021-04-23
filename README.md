@@ -1,6 +1,5 @@
 # kwhite20.github.io
 Prepare for Liftoff
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Hello World!</h1>
